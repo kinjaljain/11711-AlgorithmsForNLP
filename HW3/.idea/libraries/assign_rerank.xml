@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="assign_rerank">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assign_rerank.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/assign_rerank.jar!/" />
+    </SOURCES>
+  </library>
+</component>

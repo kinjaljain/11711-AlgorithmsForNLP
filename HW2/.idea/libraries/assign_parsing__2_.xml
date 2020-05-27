@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="assign_parsing (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assign_parsing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/assign_parsing.jar!/" />
+    </SOURCES>
+  </library>
+</component>

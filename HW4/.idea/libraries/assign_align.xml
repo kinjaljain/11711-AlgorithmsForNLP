@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="assign_align">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assign_align.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/assign_align.jar!/" />
+    </SOURCES>
+  </library>
+</component>
